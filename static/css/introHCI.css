@@ -33,8 +33,28 @@ body {
      z-index: -1;
 }
 
-.project {
-     background-color:gray;
+p{
+     font-variant: small-caps;
+}
+
+.project p{
+     font-variant: small-caps;
+}
+
+#project1{
+     font-variant: small-caps;
+
+}
+
+.projects{
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}
+
+/*.project {
+    
      margin-left: 10px;
 
 }
@@ -49,5 +69,5 @@ body {
           }
 
           .project{
-               background-color: gray;
-               margin-left: 20px;
+               
+               margin-left: 20px;*/
