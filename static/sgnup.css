@@ -24,7 +24,7 @@ form
 }
 input
 {
-
+    
     width: 240px;
     text-align: center;
     background: transparent;
@@ -58,7 +58,7 @@ input[type=button]:hover
 h2
 {
     color: #000;
-
+    
 }
 ::placeholder {
     color:aliceblue;
